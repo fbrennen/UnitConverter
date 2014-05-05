@@ -1,0 +1,8 @@
+UnitConverter/bin/Debug/*
+UnitConverter/obj/*
+UnitConverterTest/bin/*
+UnitConverterTest/obj/*
+*.pdb
+UnitConverter/bin/Release/UnitConverter.vshost.exe
+UnitConverter/bin/Release/UnitConverter.vshost.exe.manifest
+UnitConverter.v12.suo
